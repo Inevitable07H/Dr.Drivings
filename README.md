@@ -59,7 +59,11 @@ flutter pub get
 
 # 4. Run the app on your emulator or connected device
 flutter run
+```
 
+---
 
+##🤝 Contributing
+We welcome contributions! Feel free to fork the repository, create a new branch, make your changes, and submit a pull request. Please ensure your code follows the project's coding guidelines.
 
 
