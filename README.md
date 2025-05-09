@@ -63,7 +63,8 @@ flutter run
 
 ---
 
-##🤝 Contributing
-We welcome contributions! Feel free to fork the repository, create a new branch, make your changes, and submit a pull request. Please ensure your code follows the project's coding guidelines.
+## 😎This is just a beginning of my contirbution to the automobile tech. 
+
+---
 
 
