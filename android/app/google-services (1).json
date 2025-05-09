@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260831743378",
+    "project_id": "drdrivingsapp",
+    "storage_bucket": "drdrivingsapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260831743378:android:60da1154966ce7e51c854b",
+        "android_client_info": {
+          "package_name": "com.example.dr_drivings_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeFD74q-ATS6-bPH5YgCWNERbh22GRlMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
