@@ -29,6 +29,19 @@ Follow these steps to set up and run the project on your local machine:
 - Android Studio or Visual Studio Code
 - Git
 
+###🛠️ Tech Stack
+Frontend: Flutter (Dart)
+Backend: Firebase (optional)
+Hardware Interface: Arduino & ESP NodeMCU (for sensor input and driving feedback)
+
+###📚 Resources
+If you're new to Flutter or mobile development, these links will help:
+Flutter Documentation
+
+Flutter Cookbook (Useful Samples)
+
+Flutter Codelabs
+
 ### ⚙️ Installation
 
 ```bash
@@ -44,22 +57,8 @@ flutter pub get
 # 4. Run the app on your emulator or connected device
 flutter run
 
-🛠️ Tech Stack
-Frontend: Flutter (Dart)
-
-Backend: Firebase (optional)
-
-Hardware Interface: Arduino & ESP NodeMCU (for sensor input and driving feedback)
-
-📚 Resources
-If you're new to Flutter or mobile development, these links will help:
-
-Flutter Documentation
-
-Flutter Cookbook (Useful Samples)
-
-Flutter Codelabs
-
-🤝 Contributing
+###🤝 Contributing
 We welcome contributions! Feel free to fork the repository, create a new branch, make your changes, and submit a pull request. Please ensure your code follows our contribution guidelines and is well-documented.
+
+
 
