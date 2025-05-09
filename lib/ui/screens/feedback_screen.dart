@@ -63,7 +63,7 @@ Give a 4-line summary with compliments and suggestions. End with: "See you tomor
       Uri.parse("https://api.groq.com/openai/v1/chat/completions"),
       headers: {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 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" // 🛡️ Replace with your real one!
+        "Authorization": "Bearer " // 🛡️ Replace with your GROQ API one!
       },
       body: jsonEncode({
         "model": "llama3-70b-8192",
